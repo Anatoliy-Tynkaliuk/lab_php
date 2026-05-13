@@ -170,6 +170,15 @@ body {
   gap: 20px;
 }
 
+
+.news_list,
+.news_item,
+.news_text,
+.news_item p,
+.news_item h3 {
+  color: #222;
+}
+
 .card {
   width: 260px;
   background: #f4f3ff;
